@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HPDriverPack schemaVersion="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="HPDriverPackManifest.xsd">
+  <Info>
+    <DriverPackTitle>Z640</DriverPackTitle>
+    <CreatedTime>2015-08-24T16:52:22</CreatedTime>
+    <Author>HP</Author>
+    <GeneratedBy>
+      <Tool>HP Driver Pack Builder Engine</Tool>
+      <Version>1.1.2.0</Version>
+    </GeneratedBy>
+  </Info>
+  <IncludedSoftPaq>
+    <SoftPaq>
+      <SoftPaqNumber>sp72211</SoftPaqNumber>
+      <SoftPaqTitle>Intel Rapid Storage Technology Enterprise</SoftPaqTitle>
+      <Version>4.3.0.1198</Version>
+      <IncludedDir>
+        <Dir>C:\HPSDM\bld\Z640\wt64\storage\intel\sp72211\64bit_RSTe_4.3.0.1198_F6_Drivers\RSTe_f6_iaStorA_win8_win10_64</Dir>
+      </IncludedDir>
+    </SoftPaq>
+    <SoftPaq>
+      <SoftPaqNumber>sp72180</SoftPaqNumber>
+      <SoftPaqTitle>Intel Chipset Drivers for Microsoft Windows</SoftPaqTitle>
+      <Version>10.1.2.8</Version>
+      <IncludedDir>
+        <Dir>C:\HPSDM\bld\Z640\wt64\chipset\intel\sp72180\Drivers</Dir>
+      </IncludedDir>
+    </SoftPaq>
+    <SoftPaq>
+      <SoftPaqNumber>sp72024</SoftPaqNumber>
+      <SoftPaqTitle>Intel Network Connections Drivers Release 20.2</SoftPaqTitle>
+      <Version>R20.2_377786</Version>
+      <IncludedDir>
+        <Dir>C:\HPSDM\bld\Z640\wt64\network\intel\sp72024\DMIX+DRIVERS\WIN10-x64\DRIVERS\Legacy</Dir>
+        <Dir>C:\HPSDM\bld\Z640\wt64\network\intel\sp72024\DRIVERS\E1C\WIN10-x64</Dir>
+        <Dir>C:\HPSDM\bld\Z640\wt64\network\intel\sp72024\DRIVERS\E1D\WIN10-x64</Dir>
+        <Dir>C:\HPSDM\bld\Z640\wt64\network\intel\sp72024\DRIVERS\E1R\WIN10-x64</Dir>
+        <Dir>C:\HPSDM\bld\Z640\wt64\network\intel\sp72024\DRIVERS\IXN\WIN10-x64</Dir>
+        <Dir>C:\HPSDM\bld\Z640\wt64\network\intel\sp72024\DRIVERS\IXT\WIN10-x64</Dir>
+      </IncludedDir>
+    </SoftPaq>
+    <SoftPaq>
+      <SoftPaqNumber>sp71837</SoftPaqNumber>
+      <SoftPaqTitle>AMD FirePro Unified Graphics Driver Windows 10 (64-Bit)</SoftPaqTitle>
+      <Version>15.20.1045</Version>
+      <IncludedDir>
+        <Dir>C:\HPSDM\bld\Z640\wt64\graphics\amd\sp71837\Packages\Drivers\Display\WT6A_INF</Dir>
+        <Dir>C:\HPSDM\bld\Z640\wt64\graphics\amd\sp71837\Packages\Drivers\WDM\HDMI\WT64A</Dir>
+      </IncludedDir>
+    </SoftPaq>
+    <SoftPaq>
+      <SoftPaqNumber>sp71836</SoftPaqNumber>
+      <SoftPaqTitle>NVIDIA Quadro Professional Driver Windows 10 (x64)</SoftPaqTitle>
+      <Version>353.30</Version>
+      <IncludedDir>
+        <Dir>C:\HPSDM\bld\Z640\wt64\graphics\nvidia\sp71836\Display.Driver</Dir>
+        <Dir>C:\HPSDM\bld\Z640\wt64\graphics\nvidia\sp71836\HDAudio</Dir>
+      </IncludedDir>
+    </SoftPaq>
+    <SoftPaq>
+      <SoftPaqNumber>sp71832</SoftPaqNumber>
+      <SoftPaqTitle>Realtek Audio Driver Windows 7/8/8.1/10</SoftPaqTitle>
+      <Version>6.0.1.7548</Version>
+      <IncludedDir>
+        <Dir>C:\HPSDM\bld\Z640\wt64\audio\realtek\sp71832\Vista64</Dir>
+      </IncludedDir>
+    </SoftPaq>
+  </IncludedSoftPaq>
+</HPDriverPack>
